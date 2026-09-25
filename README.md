@@ -837,8 +837,8 @@ University of Central Punjab
 
 ### Profiles
 
-* **LinkedIn:** [http://www.linkedin.com/in/sultanshahzadawan]
-* **GitHub:** [https://github.com/5ultaan)]
+* **LinkedIn:** [linkedin.com/in/sultanshahzadawan](https://www.linkedin.com/in/sultanshahzadawan)
+* **GitHub:** [github.com/5ultaan](https://github.com/5ultaan)
 
 ---
 
